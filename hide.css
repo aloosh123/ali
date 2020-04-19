@@ -124,7 +124,7 @@ span.chat_pane__room_item--inline.label.label-primary {
     min-width: 60px;
 }
 .public_message.linen {
-   background:linear-gradient(to bottom, #ffffff, #c47474)!important;
+   background:linear-gradient(to bottom, #ffffff, #c474745e)!important;
     animation-fill-mode: forwards;
 }
 label label-primary login-header__label__img {
